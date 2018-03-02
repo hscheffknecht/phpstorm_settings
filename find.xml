@@ -2,7 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*trans*</mask>
       <mask>*.ph</mask>
@@ -29,11 +32,11 @@
       <mask>*order*</mask>
       <mask>*user*.js</mask>
       <mask>*edit*</mask>
-      <mask>*.php</mask>
       <mask>*app*</mask>
       <mask>*.js</mask>
       <mask>*struct*</mask>
       <mask>*.html</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
