@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="plugin*" />
     <recentFileMasks>
-      <mask>*trans*</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.xml</mask>
@@ -34,6 +34,7 @@
       <mask>*.html</mask>
       <mask>*.php</mask>
       <mask>*app*</mask>
+      <mask>plugin*</mask>
     </recentFileMasks>
   </component>
 </application>
