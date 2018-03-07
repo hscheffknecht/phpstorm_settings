@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <recentFileMasks>
-      <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*.xml</mask>
       <mask>creator_plugin_shop_core_structs_Shop</mask>
@@ -34,6 +34,7 @@
       <mask>plugin*</mask>
       <mask>*.scss</mask>
       <mask>*app*</mask>
+      <mask>*.ini</mask>
     </recentFileMasks>
   </component>
 </application>
