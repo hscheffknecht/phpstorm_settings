@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*app*" />
     <recentFileMasks>
       <mask>*.ph</mask>
       <mask>*.p</mask>
@@ -31,9 +32,9 @@
       <mask>*struct*</mask>
       <mask>*.html</mask>
       <mask>*.php</mask>
-      <mask>*app*</mask>
       <mask>plugin*</mask>
       <mask>*.scss</mask>
+      <mask>*app*</mask>
     </recentFileMasks>
   </component>
 </application>
