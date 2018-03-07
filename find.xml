@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.p</mask>
       <mask>*.xml</mask>
       <mask>creator_plugin_shop_core_structs_Shop</mask>
       <mask>creator_plugin_shop_core_structs_Shop*</mask>
@@ -34,6 +33,7 @@
       <mask>*.scss</mask>
       <mask>*app*</mask>
       <mask>*.ini</mask>
+      <mask>bootrc*</mask>
     </recentFileMasks>
   </component>
 </application>
