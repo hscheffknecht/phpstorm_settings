@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>*.xml</mask>
@@ -22,7 +20,6 @@
       <mask>config.</mask>
       <mask>config.in</mask>
       <mask>config.ini</mask>
-      <mask>Plugin.php</mask>
       <mask>*.css</mask>
       <mask>*order*</mask>
       <mask>*user*.js</mask>
@@ -36,6 +33,7 @@
       <mask>*app*</mask>
       <mask>*.ini</mask>
       <mask>bootrc*</mask>
+      <mask>Plugin.php</mask>
     </recentFileMasks>
   </component>
 </application>
