@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*edit.php" />
     <recentFileMasks>
-      <mask>*.xml</mask>
       <mask>creator_plugin_shop_core_structs_Shop</mask>
       <mask>creator_plugin_shop_core_structs_Shop*</mask>
       <mask>Shop*</mask>
@@ -34,6 +34,7 @@
       <mask>*.ini</mask>
       <mask>bootrc*</mask>
       <mask>Plugin.php</mask>
+      <mask>*edit.php</mask>
     </recentFileMasks>
   </component>
 </application>
