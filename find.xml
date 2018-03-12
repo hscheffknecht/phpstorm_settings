@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>Shop*</mask>
       <mask>t</mask>
@@ -24,7 +24,6 @@
       <mask>*edit*</mask>
       <mask>*.js</mask>
       <mask>*struct*</mask>
-      <mask>*.html</mask>
       <mask>plugin*</mask>
       <mask>*.scss</mask>
       <mask>*app*</mask>
@@ -35,6 +34,7 @@
       <mask>*form*</mask>
       <mask>*menu*</mask>
       <mask>*.php</mask>
+      <mask>*.html</mask>
     </recentFileMasks>
   </component>
 </application>
