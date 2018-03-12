@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*menu*" />
     <recentFileMasks>
-      <mask>creator_plugin_shop_core_structs_Shop*</mask>
       <mask>Shop*</mask>
       <mask>t</mask>
       <mask>tar</mask>
@@ -34,6 +34,7 @@
       <mask>Plugin.php</mask>
       <mask>*edit.php</mask>
       <mask>*form*</mask>
+      <mask>*menu*</mask>
     </recentFileMasks>
   </component>
 </application>
