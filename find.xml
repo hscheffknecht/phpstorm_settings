@@ -20,7 +20,6 @@
       <mask>*order*</mask>
       <mask>*user*.js</mask>
       <mask>*edit*</mask>
-      <mask>*.js</mask>
       <mask>*struct*</mask>
       <mask>plugin*</mask>
       <mask>*.scss</mask>
@@ -34,6 +33,7 @@
       <mask>*.html</mask>
       <mask>*.php</mask>
       <mask>*renderer*</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
