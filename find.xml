@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*renderer*" />
     <recentFileMasks>
       <mask>target/</mask>
       <mask>target/*</mask>
@@ -29,11 +30,11 @@
       <mask>*form*</mask>
       <mask>*menu*</mask>
       <mask>*.php</mask>
-      <mask>*renderer*</mask>
       <mask>*.js</mask>
       <mask>*layout*</mask>
       <mask>*form*.php</mask>
       <mask>*.html</mask>
+      <mask>*renderer*</mask>
     </recentFileMasks>
   </component>
 </application>
