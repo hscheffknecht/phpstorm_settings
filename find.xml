@@ -15,7 +15,6 @@
       <mask>*.css</mask>
       <mask>*order*</mask>
       <mask>*user*.js</mask>
-      <mask>*edit*</mask>
       <mask>*struct*</mask>
       <mask>plugin*</mask>
       <mask>*.scss</mask>
@@ -34,6 +33,7 @@
       <mask>*renderer*</mask>
       <mask>*rma*</mask>
       <mask>*.xml</mask>
+      <mask>*edit*</mask>
     </recentFileMasks>
   </component>
 </application>
