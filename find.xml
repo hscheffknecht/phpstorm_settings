@@ -1,11 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>target</mask>
       <mask>*.</mask>
@@ -20,7 +17,6 @@
       <mask>*user*.js</mask>
       <mask>*struct*</mask>
       <mask>plugin*</mask>
-      <mask>*.scss</mask>
       <mask>*app*</mask>
       <mask>*.ini</mask>
       <mask>bootrc*</mask>
@@ -37,6 +33,7 @@
       <mask>*.xml</mask>
       <mask>*edit*</mask>
       <mask>*.php</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
