@@ -4,7 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>target</mask>
       <mask>*.</mask>
       <mask>*</mask>
       <mask>confi</mask>
@@ -34,6 +33,7 @@
       <mask>*edit*</mask>
       <mask>*.php</mask>
       <mask>*.scss</mask>
+      <mask>*shipping*</mask>
     </recentFileMasks>
   </component>
 </application>
