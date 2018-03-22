@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
       <mask>*.</mask>
       <mask>*</mask>
@@ -32,8 +33,8 @@
       <mask>*.xml</mask>
       <mask>*edit*</mask>
       <mask>*.php</mask>
-      <mask>*.scss</mask>
       <mask>*shipping*</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
