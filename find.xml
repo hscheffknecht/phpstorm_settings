@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.</mask>
       <mask>*</mask>
@@ -33,10 +33,10 @@
       <mask>*rma*</mask>
       <mask>*.xml</mask>
       <mask>*edit*</mask>
-      <mask>*.php</mask>
       <mask>*shipping*</mask>
       <mask>*.scss</mask>
       <mask>*.js</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
