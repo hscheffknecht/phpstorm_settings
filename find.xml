@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*plugin*" />
+    <option name="FILE_MASK" value="*order*" />
     <recentFileMasks>
       <mask>*</mask>
       <mask>confi</mask>
@@ -12,7 +12,6 @@
       <mask>config.in</mask>
       <mask>config.ini</mask>
       <mask>*.css</mask>
-      <mask>*order*</mask>
       <mask>*user*.js</mask>
       <mask>*struct*</mask>
       <mask>plugin*</mask>
@@ -35,6 +34,7 @@
       <mask>*.php</mask>
       <mask>*app*</mask>
       <mask>*plugin*</mask>
+      <mask>*order*</mask>
     </recentFileMasks>
   </component>
 </application>
