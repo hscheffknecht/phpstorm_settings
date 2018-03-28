@@ -1,14 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*</mask>
       <mask>confi</mask>
       <mask>config</mask>
       <mask>config.</mask>
@@ -38,6 +35,7 @@
       <mask>*app*</mask>
       <mask>*plugin*</mask>
       <mask>*order*</mask>
+      <mask>*item*</mask>
     </recentFileMasks>
   </component>
 </application>
