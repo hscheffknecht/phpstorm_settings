@@ -3,8 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*website*" />
     <recentFileMasks>
-      <mask>confi</mask>
       <mask>config</mask>
       <mask>config.</mask>
       <mask>config.in</mask>
@@ -34,6 +34,7 @@
       <mask>*order*</mask>
       <mask>*item*</mask>
       <mask>*rma*</mask>
+      <mask>*website*</mask>
     </recentFileMasks>
   </component>
 </application>
