@@ -25,7 +25,6 @@
       <mask>*.xml</mask>
       <mask>*edit*</mask>
       <mask>*shipping*</mask>
-      <mask>*.scss</mask>
       <mask>*.js</mask>
       <mask>*.php</mask>
       <mask>*app*</mask>
@@ -34,6 +33,7 @@
       <mask>*item*</mask>
       <mask>*rma*</mask>
       <mask>*website*</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
