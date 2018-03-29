@@ -23,7 +23,6 @@
       <mask>*form*.php</mask>
       <mask>*.html</mask>
       <mask>*renderer*</mask>
-      <mask>*rma*</mask>
       <mask>*.xml</mask>
       <mask>*edit*</mask>
       <mask>*shipping*</mask>
@@ -34,6 +33,7 @@
       <mask>*plugin*</mask>
       <mask>*order*</mask>
       <mask>*item*</mask>
+      <mask>*rma*</mask>
     </recentFileMasks>
   </component>
 </application>
