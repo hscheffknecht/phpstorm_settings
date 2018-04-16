@@ -319,6 +319,7 @@
     <option name="CODING_STANDARD" value="Custom" />
     <option name="CUSTOM_RULESET_PATH" value="$USER_HOME$/phpcs Rulesets/PSR2 with tabs.xml" />
     <option name="WARNING_HIGHLIGHT_LEVEL_NAME" value="WEAK WARNING" />
+    <option name="SHOW_SNIFF_NAMES" value="true" />
   </inspection_tool>
   <inspection_tool class="PhpClassNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
   <inspection_tool class="PhpConstantNamingConventionInspection" enabled="false" level="WARNING" enabled_by_default="false" />
