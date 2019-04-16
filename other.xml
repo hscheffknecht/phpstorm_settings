@@ -1,0 +1,212 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Code StylePHP</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralPHP</id>
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Probable bugsPHP</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>UnusedPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpUnnecessaryFullyQualifiedNameInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Gustav">
+      <profile-state>
+        <expanded-state>
+          <State />
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Angular</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="eboxx (Team)">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>PHP</id>
+          </State>
+          <State>
+            <id>Quality toolsPHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpCSValidationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Cantarell Regular" />
+    <option name="fontScale" value="1.25" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="AFTER.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="0" />
+    <property name="AFTER.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="true" />
+    <property name="AFTER.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="false" />
+    <property name="AFTER.DISTRACTION.MODE.SHOW_STATUS_BAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_GUTTER_ICONS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.ARE_LINE_NUMBERS_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.EDITOR_TAB_PLACEMENT" value="2" />
+    <property name="BEFORE.DISTRACTION.MODE.HIDE_TOOL_STRIPES" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_FOLDING_OUTLINE_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_INDENT_GUIDES_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_RIGHT_MARGIN_SHOWN" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.IS_WHITESPACES_SHOWN" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_BREADCRUMBS" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_MAIN_TOOLBAR" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_METHOD_SEPARATORS" value="false" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_NAVIGATION_BAR" value="true" />
+    <property name="BEFORE.DISTRACTION.MODE.SHOW_STATUS_BAR" value="true" />
+    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="herbert&#10;default&#10;jstree&#10;4787&#10;4788&#10;mike&#10;target product image importer&#10;filter&#10;johannes&#10;mario&#10;sort form&#10;herbert sort form&#10;fixed&#10;cto" />
+    <property name="COMPOSER_PACKAGE_FILTER" value="doctrine/orm" />
+    <property name="ColorChooser.RecentColors" value="234-251-255-255,,,255-255-255-255,,,60-63-65-255,,,255-70-74-255,,,144-6-19-255,,,65-20-41-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.86587983" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.68956745" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileColorsForProjectViewEnabled" value="true" />
+    <property name="FileColorsForTabsEnabled" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="INSPECTION_FILTER_HISTORY" value="code sni&#10;protected&#10;modi&#10;construct&#10;parameter&#10;sniffer&#10;code sn&#10;phpdoc&#10;empty body&#10;unh" />
+    <property name="INTENTION_FILTER_HISTORY" value="phpdoc" />
+    <property name="InstalledPluginsSearchHistory" value="php&#10;html&#10;html preview" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="189" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="20" />
+    <property name="KEYMAP" value="browser&#10;close&#10;show diff&#10;diff&#10;recent" />
+    <property name="LAST_INJECTED_LANGUAGE" value="MySQL" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="git&#10;submodule&#10;hunspell&#10;german" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpStorm.dumbRunEnabled" value="true" />
+    <property name="PhpStorm.initialConfigurationShown" value="true" />
+    <property name="PhpUnit.Splitter.Proportion" value="0.26417235" />
+    <property name="PhpUnitSupport.hideIgnoredTests" value="true" />
+    <property name="PhpUnitSupport.hidePassedTests" value="true" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.26649076" />
+    <property name="RESTClient.httpMethod" value="GET&#10;POST&#10;PUT&#10;PATCH&#10;DELETE&#10;HEAD&#10;OPTIONS" />
+    <property name="SearchEveryWhereHistory" value="CachedAttributeTree&#10;CustomerModel&#10;AttributesTable&#10;Search&#10;Reinde" />
+    <property name="SettingsSearchHistory" value="syntax&#10;template&#10;browser&#10;smarty&#10;plugin" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SingleInspectionProfilePanel.HORIZONTAL_DIVIDER_PROPORTION" value="0.59192824" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="teamcity&#10;html preview" />
+    <property name="XDebuggerExpressionEditor_Use_Soft_Wraps" value="true" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="167" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="delete.locally.added.files" value="true" />
+    <property name="dir.diff.panel.divider.location" value="132" />
+    <property name="dir.diff.space.button.info" value="3" />
+    <property name="evlsprt.172" value="1602b8240ee" />
+    <property name="evlsprt.173" value="160a23cda7f" />
+    <property name="evlsprt2.172" value="15fd833a3ae" />
+    <property name="evlsprt2.173" value="1604fd781bb" />
+    <property name="evlsprt3.172" value="17" />
+    <property name="evlsprt3.173" value="16" />
+    <property name="evlsprt3.181" value="12" />
+    <property name="evlsprt3.182" value="11" />
+    <property name="evlsprt3.183" value="18" />
+    <property name="evlsprt3.191" value="15" />
+    <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/eboxx-settings.jar" />
+    <property name="favorites.view.settings.abbreviate.qualified.package.names" value="false" />
+    <property name="favorites.view.settings.autoscroll.from.source" value="false" />
+    <property name="favorites.view.settings.autoscroll.to.source" value="false" />
+    <property name="favorites.view.settings.flatten.packages" value="false" />
+    <property name="favorites.view.settings.hide.empty.middle.packages" value="true" />
+    <property name="favorites.view.settings.show.members" value="false" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/eboxx (Team).xml&#10;/home/herbert&#10;/home/herbert/git/bitbucket/hscheffknecht_team/gustav-pdf-creator&#10;/home/herbert/svn/projects/web/app/boxx/meier-verpackungen&#10;/home/herbert/svn/projects/web/app/boxx/kugelfink&#10;/home/herbert/phpstorm/phpcs Rulesets/PSR2 with tabs.xml&#10;/home/herbert/git/github/hscheffknecht/test_protected&#10;/tmp&#10;/home/herbert/svn/projects/web/app/boxx/target/CreatorDev/plugins/shop/core/classes/api/tests/place-order.http&#10;/home/herbert/svn/projects/web/app/boxx/meine-werbeartikel/CreatorDev/plugins/shop/core/classes/test/events&#10;/home/herbert/phpstorm/phpunit.phar&#10;/home/herbert/svn/projects/web/app/boxx/meine-werbeartikel/Creator/classes/test/phpunit.xml&#10;/home/herbert/phpstorm/include/phpunit&#10;/home/herbert/svn/projects/web/app/boxx/meine-werbeartikel/CreatorDev/plugins/shop/core/test/structs&#10;/home/herbert/phpstorm&#10;/home/herbert/svn/projects/web/app/boxx/target/XooWebKit/vendor/composer&#10;/home/herbert/svn/projects/web/app/boxx/target/XooWebKit/vendor/composer/ClassLoader.php&#10;/home/herbert/svn/projects/web/app/boxx/target/XooWebKit/vendor/composer/installed.json&#10;/home/herbert/svn/projects/web/app/boxx/target/XooWebKit/vendor/composer/autoload_static.php&#10;/home/herbert/svn/projects/web/app/boxx/target/XooWebKit/vendor/composer/autoload_psr4.php&#10;/home/herbert/svn/projects/web/app/boxx/target/XooWebKit/vendor/composer/autoload_namespaces.php&#10;/usr/bin/phpunit&#10;/home/herbert/svn/projects/web/app/boxx/target/Creator&#10;/home/herbert/svn/projects/web/app/boxx/target/Creator/test/phpunit.xml&#10;/usr/bin/php5.6&#10;/home/herbert/svn/projects/web/app/boxx/paterno&#10;/home/herbert/.PhpStorm2018.3/config/eboxx-settings.jar&#10;/home/herbert/svn/projects/web/app/boxx/enjo&#10;/home/herbert/svn/projects/web/app/boxx/enjoboxx&#10;/home/herbert/svn/projects/web/app/boxx/EMPTY_PROJECT" />
+    <property name="file.gist.reindex.count" value="654079" />
+    <property name="fileTypeChangedCounter" value="22" />
+    <property name="find.popup.splitter" value="0.5214592" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="lastTip" value="106" />
+    <property name="quick.doc.font.size" value="LARGE" />
+    <property name="run.configuration.edit.ad" value="true" />
+    <property name="search.everywhere.max.popup.width" value="740" />
+    <property name="selected.color.option.type" value="WARNING_ATTRIBUTES" />
+    <property name="settings.code.style.selected.tab.JavaScript" value="Code Generation" />
+    <property name="settings.code.style.selected.tab.PHP" value="Blank Lines" />
+    <property name="show.vcs.annotation.aspect.Original revision" value="true" />
+    <property name="show.vcs.annotation.aspect.Revision" value="true" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.3.3333" />
+    <property name="vcs.history.splitter.proportion" value="0.5995086" />
+    <property name="vcs.log.details.splitter.proportion" value="0.87918484" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://10.23.3.2:8080/svn/" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://10.23.3.2:8080/svn/" />
+        <option value="http://10.23.3.2:8080/svn/projects/web/app/boxx/eboxx/trunk/" />
+      </list>
+    </option>
+  </component>
+  <component name="TeamCityHistory">
+    <option name="HISTORY" value="http://xoo-herbert:8082&amp;^%$#@herbert@#$%^&amp;http://xoo-herbert&amp;^%$#@herbert@#$%^&amp;http://buildserver&amp;^%$#@herbert" />
+  </component>
+</application>

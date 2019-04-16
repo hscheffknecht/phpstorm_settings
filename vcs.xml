@@ -10,16 +10,11 @@
           <option name="url" value="https://xoo_herbert@bitbucket.org/hscheffknecht_team/klostertal_tagesblatt.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://xoo_herbert@bitbucket.org/hscheffknecht_team/mailing-list-manager-pro.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/bitbucket/hscheffknecht_team" />
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Downloads" />
     <option name="DETECT_PATCH_ON_THE_FLY" value="true" />
   </component>
 </application>
