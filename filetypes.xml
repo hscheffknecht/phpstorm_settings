@@ -1,18 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".idea/httpRequests/*.html" type="HTML" />
-      <mapping ext="data" type="Image" />
-      <removed_mapping ext="ini" approved="true" type="Ini" />
-      <mapping pattern="_htaccess" type="PLAIN_TEXT" />
-      <mapping pattern="lock" type="PLAIN_TEXT" />
-      <mapping pattern="my-openssh-key" type="PLAIN_TEXT" />
-      <mapping pattern="variants-switch-links" type="PLAIN_TEXT" />
       <mapping pattern="view-summary-taxes.html" type="PLAIN_TEXT" />
-      <mapping pattern="COPYING" type="PLAIN_TEXT" />
-      <mapping ext="neon" type="YAML" />
-      <removed_mapping pattern="httpRequests/*.html" approved="true" type="HTML" />
-      <removed_mapping ext="ini" approved="true" type="Ini" />
+      <mapping pattern="_htaccess" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
