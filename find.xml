@@ -17,5 +17,7 @@
     <mask>*.php</mask>
     <mask>main*</mask>
     <mask>*app*</mask>
+    <mask>plugin_cms.xml</mask>
+    <mask>plugin.xml</mask>
   </component>
 </application>
