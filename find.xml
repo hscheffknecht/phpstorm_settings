@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*solr*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -19,5 +20,6 @@
     <mask>plugin_cms.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*.php</mask>
+    <mask>*solr*</mask>
   </component>
 </application>
