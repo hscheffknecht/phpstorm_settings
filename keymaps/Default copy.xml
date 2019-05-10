@@ -16,12 +16,16 @@
   <action id="CompareTwoFiles" />
   <action id="EditorDuplicate" />
   <action id="EditorSelectWord" />
+  <action id="EditorSplitLine" />
   <action id="FileChooser.GotoDesktop" />
   <action id="GotoNextBookmark">
     <keyboard-shortcut first-keystroke="alt down" />
   </action>
   <action id="GotoPreviousBookmark">
     <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
