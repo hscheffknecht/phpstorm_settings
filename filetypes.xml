@@ -3,6 +3,9 @@
     <extensionMap>
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="_htaccess" type="PLAIN_TEXT" />
+      <mapping pattern="rsa_key" type="PLAIN_TEXT" />
+      <mapping pattern="private-key" type="PLAIN_TEXT" />
+      <mapping pattern="public-key" type="PLAIN_TEXT" />
       <mapping pattern="view-summary-taxes.html" type="PLAIN_TEXT" />
       <mapping ext="html" type="Smarty" />
       <removed_mapping ext="html" approved="true" type="HTML" />
