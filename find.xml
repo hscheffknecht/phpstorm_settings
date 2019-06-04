@@ -18,10 +18,8 @@
     <mask>plugin.xml</mask>
     <mask>*solr*</mask>
     <mask>*.js</mask>
-    <mask>*.php</mask>
     <mask>*edit*</mask>
     <mask>*.html</mask>
-    <mask>List.php</mask>
-    <mask>*List*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
