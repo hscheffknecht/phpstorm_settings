@@ -3,6 +3,7 @@
     <option name="customScope" value="Changed Files" />
     <option name="defaultScopeName" value="Changed Files" />
     <option name="SEARCH_SCOPE" value="Changed Files" />
+    <option name="FILE_MASK" value="*login*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -23,5 +24,6 @@
     <mask>*.ini</mask>
     <mask>*.html</mask>
     <mask>*</mask>
+    <mask>*login*</mask>
   </component>
 </application>
