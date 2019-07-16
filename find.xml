@@ -28,5 +28,7 @@
     <mask>*.php</mask>
     <mask>bootstrap*</mask>
     <mask>*.scss</mask>
+    <mask>Plugin.php</mask>
+    <mask>*Plugin.php</mask>
   </component>
 </application>
