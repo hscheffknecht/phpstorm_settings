@@ -5,6 +5,7 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*app*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -14,7 +15,6 @@
     <mask>*api*</mask>
     <mask>*swiper*</mask>
     <mask>main*</mask>
-    <mask>*app*</mask>
     <mask>plugin_cms.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*solr*</mask>
@@ -30,5 +30,6 @@
     <mask>Plugin.php</mask>
     <mask>*Plugin.php</mask>
     <mask>*.xml</mask>
+    <mask>*app*</mask>
   </component>
 </application>
