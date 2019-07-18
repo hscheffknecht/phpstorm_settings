@@ -17,7 +17,6 @@
     <mask>*solr*</mask>
     <mask>*.js</mask>
     <mask>*.ini</mask>
-    <mask>*.html</mask>
     <mask>*</mask>
     <mask>*login*</mask>
     <mask>*.php</mask>
@@ -29,5 +28,7 @@
     <mask>*app*</mask>
     <mask>*ui*</mask>
     <mask>*edit*</mask>
+    <mask>box.html</mask>
+    <mask>*.html</mask>
   </component>
 </application>
