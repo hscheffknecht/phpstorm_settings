@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*Plugin*" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
@@ -30,5 +31,6 @@
     <mask>*edit*</mask>
     <mask>box.html</mask>
     <mask>*.html</mask>
+    <mask>*Plugin*</mask>
   </component>
 </application>
