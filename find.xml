@@ -28,10 +28,10 @@
     <mask>*.xml</mask>
     <mask>*app*</mask>
     <mask>*ui*</mask>
-    <mask>*edit*</mask>
     <mask>box.html</mask>
     <mask>*.html</mask>
     <mask>*Plugin*</mask>
     <mask>*.php</mask>
+    <mask>*edit*</mask>
   </component>
 </application>
