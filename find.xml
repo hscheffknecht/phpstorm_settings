@@ -29,8 +29,8 @@
     <mask>box.html</mask>
     <mask>*Plugin*</mask>
     <mask>*.php</mask>
-    <mask>*edit*</mask>
     <mask>*product*</mask>
     <mask>*.html</mask>
+    <mask>*edit*</mask>
   </component>
 </application>
