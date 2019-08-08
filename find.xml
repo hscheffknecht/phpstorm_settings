@@ -32,5 +32,6 @@
     <mask>*product*</mask>
     <mask>*.html</mask>
     <mask>*edit*</mask>
+    <mask>*bulk*</mask>
   </component>
 </application>
