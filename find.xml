@@ -14,7 +14,6 @@
     <mask>main*</mask>
     <mask>plugin_cms.xml</mask>
     <mask>plugin.xml</mask>
-    <mask>*solr*</mask>
     <mask>*.js</mask>
     <mask>*.ini</mask>
     <mask>*</mask>
@@ -33,5 +32,6 @@
     <mask>*.html</mask>
     <mask>*edit*</mask>
     <mask>*bulk*</mask>
+    <mask>*solr*</mask>
   </component>
 </application>
