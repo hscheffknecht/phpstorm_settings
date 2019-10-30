@@ -1,19 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="rsa_key" type="PLAIN_TEXT" />
-      <mapping pattern="phan-files" type="PLAIN_TEXT" />
-      <mapping pattern="public-key" type="PLAIN_TEXT" />
-      <mapping pattern="view-summary-taxes.html" type="PLAIN_TEXT" />
-      <mapping pattern="private-key" type="PLAIN_TEXT" />
       <mapping pattern="_htaccess" type="PLAIN_TEXT" />
+      <mapping pattern="view-summary-taxes.html" type="PLAIN_TEXT" />
+      <mapping pattern="phan-files" type="PLAIN_TEXT" />
+      <mapping pattern="private-key" type="PLAIN_TEXT" />
+      <mapping pattern="public-key" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="css" type="SCSS" />
       <mapping ext="html" type="Smarty" />
+      <removed_mapping ext="css" approved="true" type="CSS" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
