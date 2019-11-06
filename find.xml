@@ -20,7 +20,6 @@
     <mask>*.scss</mask>
     <mask>Plugin.php</mask>
     <mask>*Plugin.php</mask>
-    <mask>*.xml</mask>
     <mask>*app*</mask>
     <mask>*ui*</mask>
     <mask>box.html</mask>
@@ -35,5 +34,6 @@
     <mask>*.php</mask>
     <mask>*item*</mask>
     <mask>*list*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
