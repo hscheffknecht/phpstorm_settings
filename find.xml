@@ -32,8 +32,8 @@
     <mask>*.php</mask>
     <mask>*item*</mask>
     <mask>*list*</mask>
-    <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*.ini</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
