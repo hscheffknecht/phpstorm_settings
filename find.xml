@@ -1,13 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.mxml</mask>
     <mask>*api*</mask>
     <mask>*swiper*</mask>
@@ -18,7 +14,6 @@
     <mask>*</mask>
     <mask>*login*</mask>
     <mask>bootstrap*</mask>
-    <mask>*.scss</mask>
     <mask>Plugin.php</mask>
     <mask>*Plugin.php</mask>
     <mask>*app*</mask>
@@ -38,5 +33,6 @@
     <mask>*.html</mask>
     <mask>*rd*/style*</mask>
     <mask>*.php</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
