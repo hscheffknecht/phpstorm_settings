@@ -30,8 +30,8 @@
     <mask>*.xml</mask>
     <mask>*.html</mask>
     <mask>*rd*/style*</mask>
-    <mask>*.php</mask>
     <mask>*.scss</mask>
     <mask>*shop*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
