@@ -3,7 +3,9 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*api*</mask>
     <mask>*swiper*</mask>
@@ -16,7 +18,6 @@
     <mask>bootstrap*</mask>
     <mask>Plugin.php</mask>
     <mask>*Plugin.php</mask>
-    <mask>*app*</mask>
     <mask>*ui*</mask>
     <mask>box.html</mask>
     <mask>*Plugin*</mask>
@@ -35,5 +36,6 @@
     <mask>*.scss</mask>
     <mask>*shop*</mask>
     <mask>*.php</mask>
+    <mask>*app*</mask>
   </component>
 </application>
