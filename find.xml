@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.mxml</mask>
     <mask>*api*</mask>
     <mask>*swiper*</mask>
     <mask>main*</mask>
@@ -33,5 +32,6 @@
     <mask>*rd*/style*</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*shop*</mask>
   </component>
 </application>
