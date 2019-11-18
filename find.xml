@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*api*</mask>
     <mask>*swiper*</mask>
     <mask>main*</mask>
@@ -27,11 +28,11 @@
     <mask>*list*</mask>
     <mask>*.ini</mask>
     <mask>*.xml</mask>
-    <mask>*.html</mask>
     <mask>*rd*/style*</mask>
     <mask>*.scss</mask>
     <mask>*shop*</mask>
     <mask>*.php</mask>
     <mask>*app*</mask>
+    <mask>*.html</mask>
   </component>
 </application>
