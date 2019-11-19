@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*api*</mask>
     <mask>*swiper*</mask>
     <mask>main*</mask>
     <mask>plugin_cms.xml</mask>
@@ -33,5 +32,6 @@
     <mask>*.php</mask>
     <mask>*app*</mask>
     <mask>*.html</mask>
+    <mask>*message*</mask>
   </component>
 </application>
