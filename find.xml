@@ -1,39 +1,39 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <mask>*.java</mask>
-    <mask>*.as</mask>
-    <mask>*.css</mask>
-    <mask>*.mxml</mask>
-    <mask>*api*</mask>
-    <mask>*swiper*</mask>
     <mask>main*</mask>
     <mask>plugin_cms.xml</mask>
     <mask>plugin.xml</mask>
     <mask>*.js</mask>
-    <mask>*.ini</mask>
     <mask>*</mask>
     <mask>*login*</mask>
     <mask>bootstrap*</mask>
-    <mask>*.scss</mask>
     <mask>Plugin.php</mask>
     <mask>*Plugin.php</mask>
-    <mask>*.xml</mask>
-    <mask>*app*</mask>
     <mask>*ui*</mask>
     <mask>box.html</mask>
     <mask>*Plugin*</mask>
     <mask>*product*</mask>
-    <mask>*.html</mask>
     <mask>*edit*</mask>
     <mask>*bulk*</mask>
     <mask>*solr*</mask>
     <mask>*website*</mask>
-    <mask>*.php</mask>
     <mask>*Worker*</mask>
+    <mask>*item*</mask>
+    <mask>*list*</mask>
+    <mask>*.ini</mask>
+    <mask>*.xml</mask>
+    <mask>*rd*/style*</mask>
+    <mask>*.scss</mask>
+    <mask>*shop*</mask>
+    <mask>*.php</mask>
+    <mask>*app*</mask>
+    <mask>*.html</mask>
+    <mask>arlberg*</mask>
+    <mask>*message*</mask>
   </component>
 </application>
