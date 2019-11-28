@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ini" />
     <mask>main*</mask>
     <mask>plugin_cms.xml</mask>
     <mask>*</mask>
@@ -19,7 +20,6 @@
     <mask>*website*</mask>
     <mask>*Worker*</mask>
     <mask>*list*</mask>
-    <mask>*.ini</mask>
     <mask>*.xml</mask>
     <mask>*rd*/style*</mask>
     <mask>*.scss</mask>
@@ -33,5 +33,6 @@
     <mask>*item*</mask>
     <mask>*product*</mask>
     <mask>*.js</mask>
+    <mask>*.ini</mask>
   </component>
 </application>
