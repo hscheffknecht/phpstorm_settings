@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*product*" />
     <mask>main*</mask>
     <mask>plugin_cms.xml</mask>
     <mask>*</mask>
@@ -13,13 +14,11 @@
     <mask>*ui*</mask>
     <mask>box.html</mask>
     <mask>*Plugin*</mask>
-    <mask>*product*</mask>
     <mask>*edit*</mask>
     <mask>*bulk*</mask>
     <mask>*solr*</mask>
     <mask>*website*</mask>
     <mask>*Worker*</mask>
-    <mask>*item*</mask>
     <mask>*list*</mask>
     <mask>*.ini</mask>
     <mask>*.xml</mask>
@@ -33,5 +32,7 @@
     <mask>*.php</mask>
     <mask>plugin.xml</mask>
     <mask>*.js</mask>
+    <mask>*item*</mask>
+    <mask>*product*</mask>
   </component>
 </application>
