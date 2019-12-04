@@ -1,11 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>plugin_cms.xml</mask>
     <mask>*</mask>
@@ -32,10 +28,10 @@
     <mask>plugin.xml</mask>
     <mask>*item*</mask>
     <mask>*product*</mask>
-    <mask>*.php</mask>
     <mask>*.ini</mask>
     <mask>*.js</mask>
     <mask>*order*</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
