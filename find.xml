@@ -3,7 +3,6 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>plugin_cms.xml</mask>
     <mask>*</mask>
     <mask>*login*</mask>
     <mask>bootstrap*</mask>
@@ -33,5 +32,6 @@
     <mask>*order*</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>image.html</mask>
   </component>
 </application>
