@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*</mask>
     <mask>*login*</mask>
     <mask>bootstrap*</mask>
@@ -30,8 +31,8 @@
     <mask>*.ini</mask>
     <mask>*.js</mask>
     <mask>*order*</mask>
-    <mask>*.php</mask>
     <mask>*.xml</mask>
     <mask>image.html</mask>
+    <mask>*.php</mask>
   </component>
 </application>
