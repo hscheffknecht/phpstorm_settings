@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*</mask>
+    <option name="FILE_MASK" value="*List.php" />
     <mask>*login*</mask>
     <mask>bootstrap*</mask>
     <mask>Plugin.php</mask>
@@ -33,5 +33,6 @@
     <mask>image.html</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*List.php</mask>
   </component>
 </application>
