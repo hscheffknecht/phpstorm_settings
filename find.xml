@@ -30,8 +30,8 @@
     <mask>*.ini</mask>
     <mask>*.js</mask>
     <mask>*order*</mask>
-    <mask>*.xml</mask>
     <mask>image.html</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
