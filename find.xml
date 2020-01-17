@@ -24,7 +24,6 @@
     <mask>*.scss</mask>
     <mask>*shop*</mask>
     <mask>*app*</mask>
-    <mask>*.html</mask>
     <mask>arlberg*</mask>
     <mask>*message*</mask>
     <mask>plugin.xml</mask>
@@ -37,5 +36,6 @@
     <mask>*.xml</mask>
     <mask>*List.php</mask>
     <mask>*.php</mask>
+    <mask>*.html</mask>
   </component>
 </application>
