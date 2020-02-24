@@ -14,6 +14,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="xoo_herbert" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.23.3.2:8080" />
+          <option name="userName" value="herbert" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/bitbucket/hscheffknecht_team" />
