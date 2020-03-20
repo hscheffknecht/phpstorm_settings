@@ -9,7 +9,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>Plugin.php</mask>
+    <option name="FILE_MASK" value="*form*" />
     <mask>*Plugin.php</mask>
     <mask>*ui*</mask>
     <mask>box.html</mask>
@@ -21,7 +21,6 @@
     <mask>*Worker*</mask>
     <mask>*list*</mask>
     <mask>*rd*/style*</mask>
-    <mask>*.scss</mask>
     <mask>*shop*</mask>
     <mask>*app*</mask>
     <mask>*.html</mask>
@@ -39,5 +38,7 @@
     <mask>*.xml</mask>
     <mask>*.php</mask>
     <mask>main*</mask>
+    <mask>*.scss</mask>
+    <mask>*form*</mask>
   </component>
 </application>
