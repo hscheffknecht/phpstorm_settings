@@ -33,7 +33,7 @@
     <mask>*.scss</mask>
     <mask>*form*</mask>
     <mask>*.php</mask>
-    <mask>*.js</mask>
     <mask>*edit*</mask>
+    <mask>*.js</mask>
   </component>
 </application>
