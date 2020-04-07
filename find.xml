@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'target'" />
-    <option name="defaultScopeName" value="Project 'target'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'target'" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*ui*</mask>
     <mask>box.html</mask>
     <mask>*Plugin*</mask>
@@ -29,12 +29,12 @@
     <mask>^</mask>
     <mask>main*</mask>
     <mask>*form*</mask>
-    <mask>*.php</mask>
     <mask>*edit*</mask>
     <mask>*.scss</mask>
-    <mask>*.html</mask>
     <mask>*wish*</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
