@@ -26,7 +26,6 @@
     <mask>*item*</mask>
     <mask>*product*</mask>
     <mask>*.ini</mask>
-    <mask>*order*</mask>
     <mask>image.html</mask>
     <mask>*List.php</mask>
     <mask>^</mask>
@@ -39,5 +38,6 @@
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.scss</mask>
+    <mask>*order*</mask>
   </component>
 </application>
