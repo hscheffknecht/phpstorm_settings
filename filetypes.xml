@@ -8,6 +8,7 @@
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="rsa_key" type="PLAIN_TEXT" />
       <mapping pattern="private-key" type="PLAIN_TEXT" />
+      <mapping pattern="test 2" type="PLAIN_TEXT" />
       <mapping pattern="public-key" type="PLAIN_TEXT" />
       <mapping pattern="view-summary-taxes.html" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
