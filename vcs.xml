@@ -38,6 +38,10 @@
           <option name="url" value="http://10.23.3.22/git/eboxx/app/akkumaeser" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://10.23.3.22/git/eboxx/app/eboxx" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/git/intern" />
