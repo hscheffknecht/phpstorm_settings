@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*solr*</mask>
     <mask>*website*</mask>
     <mask>*Worker*</mask>
@@ -29,11 +30,11 @@
     <mask>*order*</mask>
     <mask>*output*</mask>
     <mask>*.html</mask>
-    <mask>*.php</mask>
     <mask>Product*</mask>
     <mask>*.js</mask>
     <mask>*work*</mask>
     <mask>*.xml</mask>
     <mask>ProductEdit*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
