@@ -32,8 +32,8 @@
     <mask>Product*</mask>
     <mask>*.js</mask>
     <mask>*work*</mask>
-    <mask>*.xml</mask>
     <mask>ProductEdit*</mask>
     <mask>*.php</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
