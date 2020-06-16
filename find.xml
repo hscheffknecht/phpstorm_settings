@@ -24,7 +24,6 @@
     <mask>*form*</mask>
     <mask>*edit*</mask>
     <mask>*wish*</mask>
-    <mask>*.scss</mask>
     <mask>*order*</mask>
     <mask>*output*</mask>
     <mask>Product*</mask>
@@ -34,6 +33,7 @@
     <mask>*app*</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.scss</mask>
     <mask>*.php</mask>
   </component>
 </application>
