@@ -1,0 +1,9 @@
+<application>
+  <component name="AbbreviationManager">
+    <abbreviations>
+      <action id="Tool_eboxx CLI_Cache leeren">
+        <abbreviation name="Clear cache" />
+      </action>
+    </abbreviations>
+  </component>
+</application>
