@@ -3,7 +3,7 @@
     <exec>
       <option name="COMMAND" value="php" />
       <option name="PARAMETERS" value="console.php cache:clear" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/git/intern/dataquest/Creator/bin" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/Creator/bin" />
     </exec>
   </tool>
 </toolSet>
