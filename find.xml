@@ -28,12 +28,12 @@
     <mask>*.js</mask>
     <mask>*work*</mask>
     <mask>ProductEdit*</mask>
-    <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.yaml</mask>
     <mask>*.php</mask>
     <mask>*app*</mask>
     <mask>config.ini</mask>
     <mask>*.html</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
