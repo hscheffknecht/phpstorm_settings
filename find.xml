@@ -33,7 +33,7 @@
     <mask>*.php</mask>
     <mask>*app*</mask>
     <mask>config.ini</mask>
-    <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
