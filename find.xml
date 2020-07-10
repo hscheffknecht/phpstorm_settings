@@ -20,7 +20,6 @@
     <mask>^</mask>
     <mask>main*</mask>
     <mask>*form*</mask>
-    <mask>*edit*</mask>
     <mask>*wish*</mask>
     <mask>*order*</mask>
     <mask>*output*</mask>
@@ -30,10 +29,11 @@
     <mask>ProductEdit*</mask>
     <mask>*.scss</mask>
     <mask>*.yaml</mask>
-    <mask>*app*</mask>
     <mask>config.ini</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.xml</mask>
+    <mask>*edit*</mask>
+    <mask>*app*</mask>
   </component>
 </application>
