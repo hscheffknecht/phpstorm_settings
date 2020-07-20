@@ -16,7 +16,6 @@
     <mask>plugin.xml</mask>
     <mask>*item*</mask>
     <mask>*product*</mask>
-    <mask>*.ini</mask>
     <mask>image.html</mask>
     <mask>*List.php</mask>
     <mask>^</mask>
@@ -32,10 +31,11 @@
     <mask>*.scss</mask>
     <mask>*.yaml</mask>
     <mask>config.ini</mask>
-    <mask>*.html</mask>
     <mask>*edit*</mask>
     <mask>*app*</mask>
     <mask>*.php</mask>
+    <mask>*.ini</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
   </component>
 </application>
