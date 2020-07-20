@@ -33,9 +33,9 @@
     <mask>*.yaml</mask>
     <mask>config.ini</mask>
     <mask>*.html</mask>
-    <mask>*.php</mask>
     <mask>*edit*</mask>
     <mask>*app*</mask>
     <mask>*.xml</mask>
+    <mask>*.php</mask>
   </component>
 </application>
