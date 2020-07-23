@@ -11,6 +11,7 @@
       <mapping pattern="test 2" type="PLAIN_TEXT" />
       <mapping pattern="public-key" type="PLAIN_TEXT" />
       <mapping pattern="noch ein test" type="PLAIN_TEXT" />
+      <mapping pattern="c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" type="PLAIN_TEXT" />
       <mapping pattern=".xwk_secured" type="PLAIN_TEXT" />
       <mapping pattern="view-summary-taxes.html" type="PLAIN_TEXT" />
       <mapping ext="ttf" type="PLAIN_TEXT" />
