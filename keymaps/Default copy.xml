@@ -27,8 +27,12 @@
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
+  <action id="ManageRecentProjects">
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
+  <action id="OverrideMethods" />
   <action id="SendEOF" />
   <action id="ShowContent" />
   <action id="ToggleBookmark7" />
