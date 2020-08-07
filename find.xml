@@ -5,7 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*Worker*</mask>
+    <option name="FILE_MASK" value="*link*.html" />
     <mask>*list*</mask>
     <mask>*rd*/style*</mask>
     <mask>*shop*</mask>
@@ -22,7 +22,6 @@
     <mask>*order*</mask>
     <mask>*output*</mask>
     <mask>Product*</mask>
-    <mask>*.js</mask>
     <mask>*work*</mask>
     <mask>ProductEdit*</mask>
     <mask>*.scss</mask>
@@ -35,5 +34,7 @@
     <mask>plugin.xml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
+    <mask>*.js</mask>
+    <mask>*link*.html</mask>
   </component>
 </application>
