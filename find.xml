@@ -33,7 +33,7 @@
     <mask>plugin.xml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.js</mask>
     <mask>*link*.html</mask>
+    <mask>*.js</mask>
   </component>
 </application>
