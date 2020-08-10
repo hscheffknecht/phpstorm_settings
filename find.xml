@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*list*</mask>
     <mask>*rd*/style*</mask>
     <mask>*shop*</mask>
@@ -29,11 +30,11 @@
     <mask>*edit*</mask>
     <mask>*app*</mask>
     <mask>*.ini</mask>
-    <mask>*.php</mask>
     <mask>plugin.xml</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*link*.html</mask>
     <mask>*.js</mask>
+    <mask>*.php</mask>
   </component>
 </application>
