@@ -24,7 +24,6 @@
     <mask>*work*</mask>
     <mask>ProductEdit*</mask>
     <mask>*.scss</mask>
-    <mask>*.yaml</mask>
     <mask>config.ini</mask>
     <mask>*edit*</mask>
     <mask>*app*</mask>
@@ -35,5 +34,6 @@
     <mask>*link*.html</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
