@@ -7,7 +7,7 @@
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*list*</mask>
+    <option name="FILE_MASK" value="*date*.php" />
     <mask>*rd*/style*</mask>
     <mask>*shop*</mask>
     <mask>arlberg*</mask>
@@ -37,5 +37,6 @@
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.yaml</mask>
+    <mask>*date*.php</mask>
   </component>
 </application>
