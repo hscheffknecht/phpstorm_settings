@@ -33,7 +33,7 @@
     <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*attribute*</mask>
-    <mask>*.html</mask>
     <mask>*.php</mask>
+    <mask>*.html</mask>
   </component>
 </application>
