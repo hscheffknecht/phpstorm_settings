@@ -5,6 +5,7 @@
     <option name="showResultsInSeparateView" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>arlberg*</mask>
     <mask>*message*</mask>
     <mask>*item*</mask>
@@ -26,7 +27,6 @@
     <mask>*.ini</mask>
     <mask>plugin.xml</mask>
     <mask>*link*.html</mask>
-    <mask>*.js</mask>
     <mask>*.yaml</mask>
     <mask>*date*.php</mask>
     <mask>*.css*</mask>
@@ -35,5 +35,6 @@
     <mask>*attribute*</mask>
     <mask>*.html</mask>
     <mask>*.php</mask>
+    <mask>*.js</mask>
   </component>
 </application>
