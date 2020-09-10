@@ -29,11 +29,11 @@
     <mask>*.yaml</mask>
     <mask>*date*.php</mask>
     <mask>*.css*</mask>
-    <mask>*.scss</mask>
     <mask>*.xml</mask>
     <mask>*attribute*</mask>
-    <mask>*.html</mask>
     <mask>*.php</mask>
     <mask>*.js</mask>
+    <mask>*.scss</mask>
+    <mask>*.html</mask>
   </component>
 </application>
